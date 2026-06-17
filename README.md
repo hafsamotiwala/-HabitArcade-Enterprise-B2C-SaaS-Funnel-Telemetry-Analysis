@@ -7,7 +7,7 @@ The core objective is to identify financial leakage points across the entire cus
 
 ---
 
-## 🛠️ Deployment & Execution Order
+##  Deployment & Execution Order
 
 To reproduce this analytical database environment locally in MySQL, execute the files in the `scripts/` directory in the following sequence:
 
